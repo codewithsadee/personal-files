@@ -1,0 +1,16 @@
+.heading-style {
+  color: green;
+  font-size: 70px;
+}
+#peragraph-style {
+  color: red;
+  font-size: 20px;
+}
+h1 {
+  color: brown;
+  font-size: 70px;
+}
+p {
+  color: sienna;
+  font-size: 20px;
+}
