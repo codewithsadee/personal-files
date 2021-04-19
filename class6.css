@@ -1,0 +1,15 @@
+#section1 {
+  background-color: greenyellow;
+}
+#section1 h1 {
+  color: red;
+}
+#section1 p {
+  color: palevioletred;
+}
+.style1 {
+  font-size: 40px;
+}
+.style2 {
+  font-family: Arial, Helvetica, sans-serif;
+}

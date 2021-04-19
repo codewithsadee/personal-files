@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#div1 {
+  height: 250px;
+  background-color: rosybrown;
+}
+#div2 {
+  height: 250px;
+  background-color: rgb(211, 30, 30);
+  width: 80%;
+  margin: 0 auto;
+  z-index: 1;
+  position: relative;
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+#div3 {
+  height: 250px;
+  background-color: rosybrown;
+}

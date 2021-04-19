@@ -1,0 +1,26 @@
+.flex-container{
+  background-color: #4f5fee;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 400px;
+  border-radius: 5%;
+}
+
+.flex-container > div{
+  background-color: #7a86f5;
+  font-size: 30px;
+  margin: 10px;
+  padding: 20px;
+  border-bottom: 5px solid #343e99;
+  border-radius: 10px;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.flex-container > div:hover{
+  box-shadow: 0 0 5px #000000;
+  padding: 50px 20px;
+}
